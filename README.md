@@ -29,4 +29,6 @@
 ### Streamlit 구현 
 - Folium 이용하여 지하철 역 주변 숙소 위치 시각화
   
+### 실행 결과 
+![에어비앤비_랜드마크별_게스트선호숙소](https://github.com/user-attachments/assets/d71fe0a2-89e8-41c9-8145-03d8db776985)
 
